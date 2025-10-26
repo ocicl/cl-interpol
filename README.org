@@ -4,6 +4,6 @@ Common Lisp surface syntax niceties.
 
 |---------+---------------------------------------------------------------------------|
 | source  | file:https://github.com/edicl/cl-interpol/archive/refs/tags/v0.2.7.tar.gz |
-| version | 2.0.7                                                                     |
+| version | 0.2.7                                                                     |
 | systems | cl-interpol                                                               |
 |---------+---------------------------------------------------------------------------|
